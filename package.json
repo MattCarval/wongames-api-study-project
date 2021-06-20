@@ -12,6 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "email-templates": "^8.0.7",
+    "jsdom": "^16.6.0",
     "knex": "0.21.18",
     "pg": "8.5.1",
     "slugify": "^1.5.3",
